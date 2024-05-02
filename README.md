@@ -1,4 +1,4 @@
-# credit-card-fraud-detection
+# Credit Card Fraud Detection
 Welcome to our study on credit card fraud detection! We use big data analytics in this repository to create sophisticated tools for identifying fraudulent transactions in credit card data. The Credit Card Fraud Detection Dataset was the dataset that was downloaded from Kaggle for this research.The dataset used for this project was obtained from Kaggle: https://www.kaggle.com/datasets/kartik2112/fraud-detection
 
 # Overview
